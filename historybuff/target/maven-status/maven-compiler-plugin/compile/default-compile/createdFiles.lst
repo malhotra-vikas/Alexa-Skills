@@ -1,2 +1,2 @@
-com/amazon/asksdk/historybuff/HistoryBuffSpeechletRequestStreamHandler.class
-com/amazon/asksdk/historybuff/HistoryBuffSpeechlet.class
+com/mconsulting/samples/historybuff/HistoryBuffSpeechlet.class
+com/mconsulting/samples/historybuff/HistoryBuffSpeechletRequestStreamHandler.class

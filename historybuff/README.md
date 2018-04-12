@@ -23,7 +23,7 @@ To run this example skill you need to do two things. The first is to deploy the 
 - Using maven: go to the directory containing pom.xml, and run 'mvn assembly:assembly -DdescriptorId=jar-with-dependencies package'. This will generate a zip file named "historybuff-1.0-jar-with-dependencies.jar" in the target directory. 
 - Using gradle: go to the directory containing build.gradle,  and run 'gradle fatJar'. This will generate a zip file named "historybuff-fat-1.0.jar" in the build/libs directory.
 8. Select Code entry type as "Upload a .ZIP file" and then upload the jar file created in step 7 from the build directory to Lambda.
-9. Set the Handler as com.amazon.asksdk.historybuff.HistoryBuffSpeechletRequestStreamHandler (this refers to the Lambda RequestStreamHandler file in the zip).
+9. Set the Handler as com.mconsulting.samples.historybuff.HistoryBuffSpeechletRequestStreamHandler (this refers to the Lambda RequestStreamHandler file in the zip).
 10. Choose an existing role - lambda_basic_execution.
 11. Increase the Timeout to 30 seconds under Basic Settings.
 12. Leave the Advanced settings as the defaults.
