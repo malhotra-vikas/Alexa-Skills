@@ -1,4 +1,4 @@
-# Alexa Skills Kit SDK Java Samples
+# Alexa Skills Kit Java Samples
 
 ##Alexa Skills Kit Documentation
 The documentation for the Alexa Skills Kit is available on the [Amazon Apps and Services Developer Portal](https://developer.amazon.com/appsandservices/solutions/alexa/alexa-skills-kit/).
@@ -17,6 +17,10 @@ The following samples are included (ordered by complexity, see the Using Alexa S
 - ScoreKeeper : a skill that can keep score of a game.
 - Device Address : a skill that demonstrates how to use the Device Address API.
 - DisplayTutorial: a skill that showcases the features of the Amazon Echo Show.
+
+## Utilities
+The following utilities are also included in the project
+- RSSReader - Reads and spits the content from a RSS URL
 
 ## Usage
 Navigate to the README.md in each sub directory in the samples folder and follow the instructions for getting the sample up and running.
