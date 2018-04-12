@@ -1,0 +1,14 @@
+GetFirstEventIntent get me phone number for {name}
+GetFirstEventIntent give me phone number for {name}
+GetFirstEventIntent how do i contact {name}
+GetFirstEventIntent {name}
+
+GetNextEventIntent yes
+GetNextEventIntent yup
+GetNextEventIntent sure
+GetNextEventIntent yes please
+
+AMAZON.StopIntent no
+AMAZON.StopIntent nope
+AMAZON.StopIntent no thanks
+AMAZON.StopIntent no thank you
