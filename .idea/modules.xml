@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Alexa-Skills.iml" filepath="$PROJECT_DIR$/.idea/Alexa-Skills.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlexaRSSReader/AlexaRSSReader.iml" filepath="$PROJECT_DIR$/AlexaRSSReader/AlexaRSSReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RSSReader/RSSReader.iml" filepath="$PROJECT_DIR$/RSSReader/RSSReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScratchPad/ScratchPad.iml" filepath="$PROJECT_DIR$/ScratchPad/ScratchPad.iml" />
     </modules>
   </component>
 </project>

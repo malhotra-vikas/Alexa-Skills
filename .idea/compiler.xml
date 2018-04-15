@@ -6,10 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="AlexaRSSReader" />
+        <module name="RSSReader" />
+        <module name="ScratchPad" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="AlexaRSSReader" target="1.7" />
       <module name="RSSReader" target="1.7" />
+      <module name="ScratchPad" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

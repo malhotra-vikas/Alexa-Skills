@@ -1,2 +1,2 @@
-com/amazon/asksdk/helloworld/HelloWorldSpeechletRequestStreamHandler.class
-com/amazon/asksdk/helloworld/HelloWorldSpeechlet.class
+com/mconsulting/samples/helloworld/HelloWorldSpeechlet.class
+com/mconsulting/samples/helloworld/HelloWorldSpeechletRequestStreamHandler.class
