@@ -2,94 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="090f111c-9492-492c-9e51-61bf23c44315" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_amazon_alexa_alexa_skills_kit_1_8_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_core_1_9_40.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_dynamodb_1_9_40.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_kms_1_9_40.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_s3_1_9_40.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_amazonaws_aws_lambda_java_core_1_0_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_amazonaws_aws_lambda_java_log4j_1_0_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_6_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_6_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_6_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_studio_org_apache_commons_io_2_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_0_6_v20130930.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_0_6_v20130930.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_9_0_6_v20130930.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_9_0_6_v20130930.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_9_0_6_v20130930.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_0_6_v20130930.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_orbit_javax_servlet_3_0_0_v201112011016.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/AlexaRSSReader/AlexaRSSReader.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/AlexaRSSReader/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/AlexaRSSReader/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/AlexaRSSReader/speechAssets/IntentSchema.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/AlexaRSSReader/speechAssets/SampleUtterances.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/AlexaRSSReader/speechAssets/SkillBuilder.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/AlexaRSSReader/src/main/java/com/mconsulting/alexa/rssreader/RSSReaderSpeechlet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/AlexaRSSReader/src/main/java/com/mconsulting/alexa/rssreader/RSSReaderSpeechletRequestStreamHandler.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/RSSReader/RSSReader.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/RSSReader/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/RSSReader/src/main/java/com/mconsulting/utils/Feed.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/RSSReader/src/main/java/com/mconsulting/utils/FeedMessage.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/RSSReader/src/main/java/com/mconsulting/utils/RSSFeedParser.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/RSSReader/src/test/java/com/mconsulting/utils/ReadTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ScratchPad/ScratchPad.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ScratchPad/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ScratchPad/speechAssets/IntentSchema.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ScratchPad/speechAssets/SampleUtterances.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ScratchPad/speechAssets/SkillBuilder.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ScratchPad/src/com/mconsulting/alexa/skills/HelloWorldSpeechlet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ScratchPad/src/com/mconsulting/alexa/skills/HelloWorldSpeechletRequestStreamHandler.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/historybuff/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/helloworld/README.md" afterPath="$PROJECT_DIR$/helloworld/README.md" />
-      <change beforePath="$PROJECT_DIR$/helloworld/target/classes/com/amazon/asksdk/helloworld/HelloWorldSpeechlet.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/helloworld/target/classes/com/amazon/asksdk/helloworld/HelloWorldSpeechletRequestStreamHandler.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/helloworld/target/helloworld-1.0-jar-with-dependencies.jar" afterPath="$PROJECT_DIR$/helloworld/target/helloworld-1.0-jar-with-dependencies.jar" />
-      <change beforePath="$PROJECT_DIR$/helloworld/target/helloworld-1.0.jar" afterPath="$PROJECT_DIR$/helloworld/target/helloworld-1.0.jar" />
-      <change beforePath="$PROJECT_DIR$/helloworld/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/helloworld/target/maven-archiver/pom.properties" />
-      <change beforePath="$PROJECT_DIR$/helloworld/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/helloworld/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/helloworld/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/helloworld/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/historybuff/target/classes/log4j.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/historybuff/target/historybuff-1.0-jar-with-dependencies.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/historybuff/target/historybuff-1.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/historybuff/target/maven-archiver/pom.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/historybuff/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/historybuff/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/rssreader/LICENSE" afterPath="$PROJECT_DIR$/ScratchPad/LICENSE" />
-      <change beforePath="$PROJECT_DIR$/rssreader/README.md" afterPath="$PROJECT_DIR$/ScratchPad/README.md" />
-      <change beforePath="$PROJECT_DIR$/rssreader/build.gradle" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/rssreader/pom.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/rssreader/speechAssets/IntentSchema.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/rssreader/speechAssets/SampleUtterances.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/rssreader/speechAssets/SkillBuilder.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/rssreader/src/com/amazon/asksdk/historybuff/HistoryBuffSpeechlet.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/rssreader/src/com/amazon/asksdk/historybuff/HistoryBuffSpeechletRequestStreamHandler.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/rssreader/src/resources/log4j.properties" afterPath="$PROJECT_DIR$/AlexaRSSReader/src/resources/log4j.properties" />
-      <change beforePath="$PROJECT_DIR$/rssreader/target/classes/com/amazon/asksdk/historybuff/HistoryBuffSpeechlet.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/rssreader/target/classes/com/amazon/asksdk/historybuff/HistoryBuffSpeechletRequestStreamHandler.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/rssreader/target/classes/log4j.properties" afterPath="$PROJECT_DIR$/ScratchPad/resources/log4j.properties" />
-      <change beforePath="$PROJECT_DIR$/rssreader/target/historybuff-1.0-jar-with-dependencies.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/rssreader/target/historybuff-1.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/rssreader/target/maven-archiver/pom.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/rssreader/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/rssreader/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/RSSReader/target/" />
     <ignored path="$PROJECT_DIR$/ScratchPad/target/" />
@@ -106,7 +19,7 @@
       <file leaf-file-name="RSSReaderSpeechlet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AlexaRSSReader/src/main/java/com/mconsulting/alexa/rssreader/RSSReaderSpeechlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="315">
               <caret line="37" column="27" lean-forward="false" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
               <folding />
             </state>
@@ -116,7 +29,7 @@
       <file leaf-file-name="HistoryBuffSpeechlet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/historybuff/src/com/mconsulting/samples/historybuff/HistoryBuffSpeechlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
+            <state relative-caret-position="1995">
               <caret line="176" column="37" lean-forward="false" selection-start-line="176" selection-start-column="29" selection-end-line="176" selection-end-column="37" />
               <folding />
             </state>
@@ -127,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/historybuff/src/com/mconsulting/samples/historybuff/HistoryBuffSpeechletRequestStreamHandler.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="29" column="89" lean-forward="true" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="89" />
+              <caret line="29" column="89" lean-forward="false" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="89" />
               <folding />
             </state>
           </provider>
@@ -147,7 +60,7 @@
         <entry file="file://$PROJECT_DIR$/RSSReader/src/main/java/com/mconsulting/utils/Feed.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="16" column="25" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="16" selection-end-column="25" />
+              <caret line="16" column="25" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="16" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -156,7 +69,7 @@
       <file leaf-file-name="FeedMessage.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/RSSReader/src/main/java/com/mconsulting/utils/FeedMessage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
+            <state relative-caret-position="225">
               <caret line="20" column="11" lean-forward="false" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
               <folding>
                 <element signature="e#505#506#0" expanded="true" />
@@ -299,6 +212,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -310,114 +224,14 @@
             <path>
               <item name="Alexa-Skills" type="b2602c69:ProjectViewProjectNode" />
               <item name="Alexa-Skills" type="462c0819:PsiDirectoryNode" />
-              <item name="historybuff" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Alexa-Skills" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Alexa-Skills" type="462c0819:PsiDirectoryNode" />
-              <item name="historybuff" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Alexa-Skills" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Alexa-Skills" type="462c0819:PsiDirectoryNode" />
-              <item name="historybuff" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Alexa-Skills" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Alexa-Skills" type="462c0819:PsiDirectoryNode" />
-              <item name="historybuff" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="mconsulting" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Alexa-Skills" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Alexa-Skills" type="462c0819:PsiDirectoryNode" />
-              <item name="historybuff" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="mconsulting" type="462c0819:PsiDirectoryNode" />
-              <item name="samples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Alexa-Skills" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Alexa-Skills" type="462c0819:PsiDirectoryNode" />
-              <item name="historybuff" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="mconsulting" type="462c0819:PsiDirectoryNode" />
-              <item name="samples" type="462c0819:PsiDirectoryNode" />
-              <item name="historybuff" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Alexa-Skills" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Alexa-Skills" type="462c0819:PsiDirectoryNode" />
-              <item name="RSSReader" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Alexa-Skills" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Alexa-Skills" type="462c0819:PsiDirectoryNode" />
-              <item name="RSSReader" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Alexa-Skills" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Alexa-Skills" type="462c0819:PsiDirectoryNode" />
-              <item name="RSSReader" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Alexa-Skills" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Alexa-Skills" type="462c0819:PsiDirectoryNode" />
-              <item name="RSSReader" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Alexa-Skills" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Alexa-Skills" type="462c0819:PsiDirectoryNode" />
-              <item name="RSSReader" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Alexa-Skills" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Alexa-Skills" type="462c0819:PsiDirectoryNode" />
-              <item name="RSSReader" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Alexa-Skills" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Alexa-Skills" type="462c0819:PsiDirectoryNode" />
-              <item name="RSSReader" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Alexa-Skills" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Alexa-Skills" type="462c0819:PsiDirectoryNode" />
-              <item name="RSSReader" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="AlexaRSSReader" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -620,40 +434,41 @@
       <workItem from="1523642377483" duration="720000" />
       <workItem from="1523644982474" duration="635000" />
       <workItem from="1523663312734" duration="622000" />
+      <workItem from="1523834788337" duration="78000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19271000" />
+    <option name="totallyTimeSpent" value="19349000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1599" height="951" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32853717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32961586" sideWeight="0.5022508" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3277311" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.330855" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33013207" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277311" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31856135" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3224149" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39928058" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39928058" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32853717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32961586" sideWeight="0.4977492" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -936,6 +751,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/AlexaRSSReader/src/main/java/com/mconsulting/alexa/rssreader/RSSReaderSpeechlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="37" column="27" lean-forward="false" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/historybuff/src/com/mconsulting/samples/historybuff/HistoryBuffSpeechlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1995">
+          <caret line="176" column="37" lean-forward="false" selection-start-line="176" selection-start-column="29" selection-end-line="176" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RSSReader/src/main/java/com/mconsulting/utils/Feed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="25" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="16" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/RSSReader/src/main/java/com/mconsulting/utils/RSSFeedParser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1755">
@@ -944,34 +783,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AlexaRSSReader/src/main/java/com/mconsulting/alexa/rssreader/RSSReaderSpeechletRequestStreamHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlexaRSSReader/src/main/java/com/mconsulting/alexa/rssreader/RSSReaderSpeechlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="37" column="27" lean-forward="false" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/historybuff/src/com/mconsulting/samples/historybuff/HistoryBuffSpeechletRequestStreamHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="29" column="89" lean-forward="true" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="89" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/historybuff/src/com/mconsulting/samples/historybuff/HistoryBuffSpeechlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="176" column="37" lean-forward="false" selection-start-line="176" selection-start-column="29" selection-end-line="176" selection-end-column="37" />
+          <caret line="29" column="89" lean-forward="false" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="89" />
           <folding />
         </state>
       </provider>
@@ -984,17 +799,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RSSReader/src/main/java/com/mconsulting/utils/Feed.java">
+    <entry file="file://$PROJECT_DIR$/AlexaRSSReader/src/main/java/com/mconsulting/alexa/rssreader/RSSReaderSpeechletRequestStreamHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="16" column="25" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="16" selection-end-column="25" />
+        <state relative-caret-position="390">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/RSSReader/src/main/java/com/mconsulting/utils/FeedMessage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
+        <state relative-caret-position="225">
           <caret line="20" column="11" lean-forward="false" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
           <folding>
             <element signature="e#505#506#0" expanded="true" />
